@@ -16,6 +16,6 @@ CrystalClear was developed to address the limitations of existing dyslexia treat
 - High costs and limited availability of consistent learning specialist sessions.
 - Lack of standardized and guided approaches for at-home learning.
 
-Click on Prototype to watch how it functions [Prototype]([https://example.com](https://youtu.be/5uQQivMBwQk?si=eRcyA0I9DuFGjPxk))
+Click on Prototype to watch how it functions [Prototype]([(https://youtu.be/5uQQivMBwQk?si=eRcyA0I9DuFGjPxk)](https://www.youtube.com/watch?v=5uQQivMBwQk))
 
 
